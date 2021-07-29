@@ -1,0 +1,27 @@
+body {
+  background-color: #ffffff;
+}
+
+.container-fluid {
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+.color-display {
+  text-align: center;
+  background-color: #000000;
+  padding: 1%;
+  font-size: 1.75rem;
+  border-radius: 1vh;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.main {
+  margin: 22.5% 35%;
+  text-align: center;
+}
+
+.current-color {
+    color: #FFFFFF;
+}
